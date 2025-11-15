@@ -1,4 +1,6 @@
-392737b (HEAD -> main) Task 1.1 StatementPrinter
+77f476b (HEAD -> main) Task 2.1 StatementPrinter
+eea5193 Task 1.2
+392737b Task 1.1 StatementPrinter
 ccd380e Task 1.1 Play
 b0fa0ef Task 1.1 Performance
 8471f1c Task 1.1 Constants
