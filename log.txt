@@ -1,4 +1,6 @@
-50a1db9 (HEAD -> main) Task 2.3
+d741a3b (HEAD -> main, origin/main, origin/HEAD) Task 2.4
+0a78255 Task 2.4 StatementPrinter
+50a1db9 Task 2.3
 fdcb9e2 Task 2.3 StatementPrinter
 9842ac8 Task 2.2
 b73cf1a Task 2.2. StatementPrinter
@@ -10,4 +12,4 @@ eea5193 Task 1.2
 ccd380e Task 1.1 Play
 b0fa0ef Task 1.1 Performance
 8471f1c Task 1.1 Constants
-269a590 (origin/main, origin/HEAD) Initial commit
+269a590 Initial commit
