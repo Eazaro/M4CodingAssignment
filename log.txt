@@ -1,4 +1,6 @@
-b0acdcb (HEAD -> main) Task 2.1
+9842ac8 (HEAD -> main) Task 2.2
+b73cf1a Task 2.2. StatementPrinter
+b0acdcb Task 2.1
 af16a89 Task 2.1 StatementPrinter
 77f476b Task 2.1 StatementPrinter
 eea5193 Task 1.2
